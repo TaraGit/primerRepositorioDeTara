@@ -8,6 +8,7 @@ public class Git {
 		//Esto es un comentario
 		private variable;
 		private segundaVariable;
+		private cambio;
 		
 		
 	}
